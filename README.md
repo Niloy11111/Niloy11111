@@ -111,7 +111,7 @@ Welcome to my portfolio! Below are the details of my three projects :
   - Admin Email: hero@hero.com
   - Admin Password: abcdNn&1 
   - Stripe Payment Gateway system(Though no real money)
-
+  - jwt implementation to protect private api 
 ## Technologies Utilized in the Trio of Projects
 - JavaScript
 - React.js
