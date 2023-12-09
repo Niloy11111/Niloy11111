@@ -69,10 +69,7 @@ As a MERN developer, I have experience in full-stack web development, including 
 </p>
 
 
-
-
-
-# My Portfolio
+## 🌺 My Portfolio
 
 Welcome to my portfolio! Below are the details of my three projects :
 
