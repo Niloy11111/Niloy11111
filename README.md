@@ -123,7 +123,8 @@ Welcome to my portfolio! Below are the details of my three projects :
 ## Technologies Utilized in the Trio of Projects
 - JavaScript
 - React.js
-- Node.js, Express
+- Node.js
+- Express.js
 - MongoDB
 - Tailwind 
 
