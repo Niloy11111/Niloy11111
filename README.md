@@ -6,14 +6,13 @@
 
 As a MERN developer, I have experience in full-stack web development, including frontend and backend. My expertise lies in React.js, Tailwind CSS, Node.js, Express, and MongoDB. I have a strong foundation in JavaScript, HTML, and CSS, and have worked on various projects to hone my skills. My vision is to continue learning and growing as a developer, staying updated with the latest trends and technologies in the MERN stack.
 
-## ☕  Connect with me!
+## ☕  Connect with me! </br>
 
 [![Facebook Icon](/assets/facebook.svg "facebook icon with link")](https://www.facebook.com/ektiar.niloy)
 [![Linkedin Icon](/assets/linkedin.svg "linkedin icon with link")](https://www.linkedin.com/in/m-ekhthiar-uddin-a5bb79229/)
 [![Gmail Icon](/assets/gmail.svg "Gmail Icon")](mailto:ektiaruddinniloy859@gmail.com)
 
-## 💻 My tech toolkit includes
-
+## 💻 My tech toolkit includes </br>
 <div style="display: flex;  gap: 32px;">
     <img src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" alt="JavaScript Icon" width="40"/>
     <img src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png" alt="React Icon" width="40"/>
@@ -24,6 +23,67 @@ As a MERN developer, I have experience in full-stack web development, including 
     <img src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png" alt="Node.js Icon" width="40"/>
     <img src="https://user-images.githubusercontent.com/25181517/189716855-2c69ca7a-5149-4647-936d-780610911353.png" alt="Node.js Icon" width="40"/>
 </div>
+
+
+# My Portfolio
+
+Welcome to my portfolio! Below are the details of my three projects :
+
+## Project 1: Automotive 
+
+### Live Link
+
+[Live Demo](https://automotive-636cc.web.app/)
+
+### Project Details
+
+- **Technology Stack:** List the technologies used in Project One.
+- **Features:**
+  -
+  - Authenticate users by Firebase Authentication
+  - MongoDB CRUD Operation 
+  - Brand wise data fetching 
+  - Product Details information 
+
+## Project 2: Job Management
+
+### Live Link
+
+[Live Demo](https://job-management-58f60.web.app/)
+
+### Project Details
+
+- **Features:**
+  - Authenticate users by Firebase Authentication
+  - MongoDB CRUD Operation On (ADD JOB, MY JOB, APPLIED JOBS)
+  - Search Functionality on JOBS route 
+  - Three article on BLOGS 
+  - Dynamic View Job route and application system 
+
+## Project 3: Hostel Management
+
+### Live Link
+
+[Live Demo](https://hostel-management-8210c.web.app/)
+
+### Project Details
+
+- **Technology Stack:** List the technologies used in Project Three.
+
+- **Features:**
+  - Authenticate users by Firebase Authentication
+  - MongoDB CRUD Operation On (MEALS, UPCOMING MEALS, All route in dashboard layout)
+  - Dashboard layout system to differ in regular user and admin
+  - Admin Email: hero@hero.com
+  - Admin Password: abcdNn&1 
+  - Stripe Payment Gateway system(Though no real money)
+
+## Technology Used for these three project
+- JavaScript
+- React.js
+- Node.js, Express
+- MongoDB
+- Tailwind 
 
 
 
