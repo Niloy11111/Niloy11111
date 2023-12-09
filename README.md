@@ -8,13 +8,13 @@ As a MERN developer, I have experience in full-stack web development, including 
 
 ## ☕  Connect with me!
 
-[![Facebook Icon](/assets/facebook.svg "facebook icon with link")](https://facebook.com)
-[![Linkedin Icon](/assets/linkedin.svg "linkedin icon with link")](https://linkedin.com)
+[![Facebook Icon](/assets/facebook.svg "facebook icon with link")](https://www.facebook.com/ektiar.niloy)
+[![Linkedin Icon](/assets/linkedin.svg "linkedin icon with link")](https://www.linkedin.com/in/m-ekhthiar-uddin-a5bb79229/)
 [![Gmail Icon](/assets/gmail.svg "Gmail Icon")](mailto:ektiaruddinniloy859@gmail.com)
 
 ## 💻 My tech toolkit includes
 
-<div style="display: flex; gap: 32px;">
+<div style="display: flex;  gap: 32px;">
     <img src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" alt="JavaScript Icon" width="40"/>
     <img src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png" alt="React Icon" width="40"/>
     <img src="https://user-images.githubusercontent.com/25181517/183568594-85e280a7-0d7e-4d1a-9028-c8c2209e073c.png" alt="Node.js Icon" width="40"/>
