@@ -75,7 +75,7 @@ Welcome to my portfolio! Below are the details of my three projects :
 
 ## Project 1: 🚔  Automotive 
 
-[Live Demo of Automotive](https://automotive-636cc.web.app/)
+[Live Link of Automotive](https://automotive-636cc.web.app/)
 
 ### 👉 Project Details
 
@@ -91,7 +91,7 @@ Welcome to my portfolio! Below are the details of my three projects :
 
 ## Project 2: 👮 Job Management
 
-[Live Demo of Job Management](https://job-management-58f60.web.app/)
+[Live Link of Job Management](https://job-management-58f60.web.app/)
 
 ### 👉 Project Details
 
@@ -106,7 +106,7 @@ Welcome to my portfolio! Below are the details of my three projects :
 
 ## Project 3: 👭 Hostel Management
 
-[Live Demo Hostel Management](https://hostel-management-8210c.web.app/)
+[Live Link of Hostel Management](https://hostel-management-8210c.web.app/)
 
 ### 👉 Project Details
 
