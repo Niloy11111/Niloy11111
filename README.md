@@ -8,9 +8,18 @@ As a MERN developer, I have experience in full-stack web development, including 
 
 ## ☕  Connect with me! <br>
 
-[![Facebook Icon](/assets/facebook.svg "facebook icon with link")](https://www.facebook.com/ektiar.niloy)
-[![Linkedin Icon](/assets/linkedin.svg "linkedin icon with link")](https://www.linkedin.com/in/m-ekhthiar-uddin-a5bb79229/)
-[![Gmail Icon](/assets/gmail.svg "Gmail Icon")](mailto:ektiaruddinniloy859@gmail.com)
+<p align="center">
+  <a href="https://www.facebook.com/ektiar.niloy">
+    <img src="/assets/facebook.svg" alt="Facebook Icon" title="Facebook icon with link">
+  </a>
+  <a href="https://www.linkedin.com/in/m-ekhthiar-uddin-a5bb79229/">
+    <img src="/assets/linkedin.svg" alt="LinkedIn Icon" title="LinkedIn icon with link">
+  </a>
+  <a href="mailto:ektiaruddinniloy859@gmail.com">
+    <img src="/assets/gmail.svg" alt="Gmail Icon" title="Gmail icon">
+  </a>
+</p>
+
 
 ## 💻 My tech toolkit includes <br>
 
