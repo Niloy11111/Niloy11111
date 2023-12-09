@@ -25,16 +25,12 @@ As a MERN developer, I have experience in full-stack web development, including 
 </div>
 
 </br>
-</br>
-</br>
-</br>
-</br>
  
 ## 👀 Current overview
-# ♥️  I enjoy programming and sharing knowledge
-# 🔭 I’m working - To improve my Networking and Portfolio.
-# 🌱 I’m exploring - Next.Js .
-# 🤔 I’m trying - To build my backend fundamental strongly.
+### ♥️  I enjoy programming and sharing knowledge
+### 🔭 I’m working - To improve my Networking and Portfolio.
+### 🌱 I’m exploring - Next.Js .
+### 🤔 I’m trying - To build my backend fundamental strongly.
 
 # My Portfolio
 
