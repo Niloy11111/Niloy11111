@@ -35,14 +35,13 @@ As a MERN developer, I have experience in full-stack web development, including 
 
 ![GitHub Profile Summary Cards](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Niloy11111&theme=dracula)
 
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vn7n24fzkq&theme=default)
 
 # My Portfolio
 
 Welcome to my portfolio! Below are the details of my three projects :
 
 ## Project 1: Automotive 
-
-### Live Link
 
 [Live Demo](https://automotive-636cc.web.app/)
 
@@ -58,8 +57,6 @@ Welcome to my portfolio! Below are the details of my three projects :
 
 ## Project 2: Job Management
 
-### Live Link
-
 [Live Demo](https://job-management-58f60.web.app/)
 
 ### Project Details
@@ -72,8 +69,6 @@ Welcome to my portfolio! Below are the details of my three projects :
   - Dynamic View Job route and application system 
 
 ## Project 3: Hostel Management
-
-### Live Link
 
 [Live Demo](https://hostel-management-8210c.web.app/)
 
