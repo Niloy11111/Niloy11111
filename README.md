@@ -13,7 +13,7 @@ As a MERN developer, I have experience in full-stack web development, including 
 [![Gmail Icon](/assets/gmail.svg "Gmail Icon")](mailto:ektiaruddinniloy859@gmail.com)
 
 ## 💻 My tech toolkit includes <br>
-<div style="display: flex;  gap: 132px;">
+<div >
     <img src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" alt="JavaScript Icon" width="40"/>
     <img src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png" alt="React Icon" width="40"/>
     <img src="https://user-images.githubusercontent.com/25181517/183568594-85e280a7-0d7e-4d1a-9028-c8c2209e073c.png" alt="Node.js Icon" width="40"/>
