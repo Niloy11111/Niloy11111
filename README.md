@@ -58,7 +58,6 @@ Welcome to my portfolio! Below are the details of my three projects :
 
 ### Project Details
 
-- **Technology Stack:** List the technologies used in Project One.
 - **Features:**
   -
   - Authenticate users by Firebase Authentication
@@ -84,8 +83,6 @@ Welcome to my portfolio! Below are the details of my three projects :
 [Live Demo](https://hostel-management-8210c.web.app/)
 
 ### Project Details
-
-- **Technology Stack:** List the technologies used in Project Three.
 
 - **Features:**
   - Authenticate users by Firebase Authentication
