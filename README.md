@@ -37,8 +37,8 @@ As a MERN developer, I have experience in full-stack web development, including 
 
 [![Repos Per Language](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Niloy11111&dracula)](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Niloy11111&dracula)
 [![Most Commit Language](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Niloy11111&dracula)](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Niloy11111&dracula)
-[![Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Niloy11111&dracula)](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Niloy11111&monokai)
-[![Productive Time](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Niloy11111&dracula)](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Niloy11111&monokai)
+[![Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Niloy11111&monokai)](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Niloy11111&monokai)
+[![Productive Time](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Niloy11111&monokai)](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Niloy11111&monokai)
 
 
 
