@@ -73,7 +73,7 @@ As a MERN developer, I have experience in full-stack web development, including 
 
 Welcome to my portfolio! Below are the details of my three projects :
 
-## Project 1: Automotive 
+## Project 1: 🚔  Automotive 
 
 [Live Demo](https://automotive-636cc.web.app/)
 
@@ -89,7 +89,7 @@ Welcome to my portfolio! Below are the details of my three projects :
   - Brand wise data fetching 
   - Product Details information 
 
-## Project 2: Job Management
+## Project 2: 👮 Job Management
 
 [Live Demo](https://job-management-58f60.web.app/)
 
@@ -105,7 +105,7 @@ Welcome to my portfolio! Below are the details of my three projects :
   - Three article on BLOGS 
   - Dynamic View Job route and application system 
 
-## Project 3: Hostel Management
+## Project 3: 👭 Hostel Management
 
 [Live Demo](https://hostel-management-8210c.web.app/)
 
