@@ -34,25 +34,11 @@ As a MERN developer, I have experience in full-stack web development, including 
 
 ![GitHub Profile Summary Cards](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Niloy11111&theme=dracula)
 
-<div style="display: flex; flex-wrap: wrap; gap: 32px; justify-content: space-around;">
+[![Repos Per Language](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Niloy11111&dracula)](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Niloy11111&dracula)
+[![Most Commit Language](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Niloy11111&dracula)](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Niloy11111&dracula)
+[![Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Niloy11111&dracula)](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Niloy11111&dracula)
+[![Productive Time](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Niloy11111&dracula)](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Niloy11111&dracula)
 
-  <div style="flex: 1 0 48%;">
-    ![Repos Per Language](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Niloy11111&dracula)
-  </div>
-
-  <div style="flex: 1 0 48%;">
-    ![Most Commit Language](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Niloy11111&dracula)
-  </div>
-
-  <div style="flex: 1 0 48%;">
-    ![Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Niloy11111&dracula)
-  </div>
-
-  <div style="flex: 1 0 48%;">
-    ![Productive Time](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Niloy11111&dracula)
-  </div>
-
-</div>
 
 
 # My Portfolio
