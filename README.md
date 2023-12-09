@@ -6,13 +6,13 @@
 
 As a MERN developer, I have experience in full-stack web development, including frontend and backend. My expertise lies in React.js, Tailwind CSS, Node.js, Express, and MongoDB. I have a strong foundation in JavaScript, HTML, and CSS, and have worked on various projects to hone my skills. My vision is to continue learning and growing as a developer, staying updated with the latest trends and technologies in the MERN stack.
 
-## ☕  Connect with me! </br>
+## ☕  Connect with me! <br>
 
 [![Facebook Icon](/assets/facebook.svg "facebook icon with link")](https://www.facebook.com/ektiar.niloy)
 [![Linkedin Icon](/assets/linkedin.svg "linkedin icon with link")](https://www.linkedin.com/in/m-ekhthiar-uddin-a5bb79229/)
 [![Gmail Icon](/assets/gmail.svg "Gmail Icon")](mailto:ektiaruddinniloy859@gmail.com)
 
-## 💻 My tech toolkit includes </br>
+## 💻 My tech toolkit includes <br>
 <div style="display: flex;  gap: 32px;">
     <img src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" alt="JavaScript Icon" width="40"/>
     <img src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png" alt="React Icon" width="40"/>
@@ -32,20 +32,28 @@ As a MERN developer, I have experience in full-stack web development, including 
 ### 🌱 I’m exploring - Next.Js .
 ### 🤔 I’m trying - To build my backend fundamental strongly.
 
-
 ![GitHub Profile Summary Cards](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Niloy11111&theme=dracula)
 
-<div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 32px;">
+<div style="display: flex; flex-wrap: wrap; gap: 32px; justify-content: space-around;">
 
-![Repos Per Language](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Niloy11111&dracula)
+  <div style="flex: 1 0 48%;">
+    ![Repos Per Language](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Niloy11111&dracula)
+  </div>
 
-![Most Commit Language](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Niloy11111&dracula)
+  <div style="flex: 1 0 48%;">
+    ![Most Commit Language](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Niloy11111&dracula)
+  </div>
 
-![Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Niloy11111&dracula)
+  <div style="flex: 1 0 48%;">
+    ![Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Niloy11111&dracula)
+  </div>
 
-![Productive Time](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Niloy11111&dracula)
+  <div style="flex: 1 0 48%;">
+    ![Productive Time](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Niloy11111&dracula)
+  </div>
 
 </div>
+
 
 # My Portfolio
 
