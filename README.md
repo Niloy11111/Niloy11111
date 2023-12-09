@@ -37,10 +37,13 @@ As a MERN developer, I have experience in full-stack web development, including 
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Niloy11111&theme=dracula" alt="GitHub Profile Summary Cards">
 </p>
 
-[![Repos Per Language](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Niloy11111&theme=dracula)](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Niloy11111&theme=dracula)
-[![Most Commit Language](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Niloy11111&theme=dracula)](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Niloy11111&theme=dracula)
-[![Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Niloy11111&theme=dracula)](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Niloy11111&theme=dracula)
-[![Productive Time](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Niloy11111&theme=dracula)](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Niloy11111&theme=dracula)
+<p align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Niloy11111&theme=dracula" alt="Repos Per Language">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Niloy11111&theme=dracula" alt="Most Commit Language">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Niloy11111&theme=dracula" alt="Stats">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Niloy11111&theme=dracula" alt="Productive Time">
+</p>
+
 
 
 
