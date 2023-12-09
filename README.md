@@ -55,6 +55,8 @@ As a MERN developer, I have experience in full-stack web development, including 
 
 <br>
 
+## 👤 Profile Summary
+
 <p align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Niloy11111&theme=dracula" alt="GitHub Profile Summary Cards">
 </p>
