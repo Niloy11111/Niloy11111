@@ -13,7 +13,7 @@ As a MERN developer, I have experience in full-stack web development, including 
 [![Gmail Icon](/assets/gmail.svg "Gmail Icon")](mailto:ektiaruddinniloy859@gmail.com)
 
 ## 💻 My tech toolkit includes <br>
-<div style="display: flex;  gap: 32px;">
+<div style="display: flex;  gap: 132px;">
     <img src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" alt="JavaScript Icon" width="40"/>
     <img src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png" alt="React Icon" width="40"/>
     <img src="https://user-images.githubusercontent.com/25181517/183568594-85e280a7-0d7e-4d1a-9028-c8c2209e073c.png" alt="Node.js Icon" width="40"/>
@@ -23,14 +23,14 @@ As a MERN developer, I have experience in full-stack web development, including 
     <img src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png" alt="Node.js Icon" width="40"/>
     <img src="https://user-images.githubusercontent.com/25181517/189716855-2c69ca7a-5149-4647-936d-780610911353.png" alt="Node.js Icon" width="40"/>
 </div>
-
-</br>
  
 ## 👀 Current overview
 ### ♥️I enjoy programming and sharing knowledge
 ### 🔭 I’m working - To improve my Networking and Portfolio.
 ### 🌱 I’m exploring - Next.Js .
-### 🤔 I’m trying - To build my backend fundamental strongly.
+### 🤔 I’m trying - To build backend fundamental strongly.
+
+<br>
 
 ![GitHub Profile Summary Cards](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Niloy11111&theme=dracula)
 
