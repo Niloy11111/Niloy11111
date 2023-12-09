@@ -37,6 +37,12 @@ As a MERN developer, I have experience in full-stack web development, including 
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Niloy11111&dracula)
 
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Niloy11111&dracula)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Niloy11111&dracula)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Niloy11111&dracula)
+
 # My Portfolio
 
 Welcome to my portfolio! Below are the details of my three projects :
