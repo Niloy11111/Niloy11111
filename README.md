@@ -4,7 +4,10 @@
 
 ## ☕  Connect with me!
 
+[![Facebook Icon](/assets/facebook.svg "facebook icon with link")](https://facebook.com)
 ![The San Juan Mountains are beautiful!](/assets/facebook.svg "San Juan Mountains")
+![The San Juan Mountains are beautiful!](/assets/linkedin.svg "San Juan Mountains")
+![The San Juan Mountains are beautiful!](/assets/gmail.svg "San Juan Mountains")
 
 
 
