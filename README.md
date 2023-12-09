@@ -17,7 +17,7 @@ As a MERN developer, I have experience in full-stack web development, including 
 
 
 
-## ☕  Connect with me! <br>
+## ☕ Connect with me! <br>
 
 <p align="center">
   <a href="https://www.facebook.com/ektiar.niloy">
@@ -75,9 +75,9 @@ Welcome to my portfolio! Below are the details of my three projects :
 
 ## Project 1: 🚔  Automotive 
 
-[Live Demo](https://automotive-636cc.web.app/)
+[Live Demo of Automotive](https://automotive-636cc.web.app/)
 
-### Project Details
+### 👉 Project Details
 
 ## Overview 
 ### Passionate automotive enthusiast building a dynamic website featuring top brands—Toyota, BMW, Ford, Tesla, Mercedes-benz, Honda. Users can explore each brand, click for details, and find four featured products with options to view details and update. Leveraging Firebase authentication for a secure experience, MongoDB powers robust CRUD operations. The 'Add Product' route allows seamless expansion of the catalog. The 'My Cart' route showcases user selections. With a commitment to innovation and user-friendly design, this project combines cutting-edge technologies and a love for automobiles.
@@ -91,11 +91,10 @@ Welcome to my portfolio! Below are the details of my three projects :
 
 ## Project 2: 👮 Job Management
 
-[Live Demo](https://job-management-58f60.web.app/)
+[Live Demo of Job Management](https://job-management-58f60.web.app/)
 
-### Project Details
+### 👉 Project Details
 
-## Overview 
 ### Introducing 'JobHub,' a user-friendly job-seeking platform. With a vibrant and easy-to-navigate design, users can effortlessly explore and apply for various job types like On-Site, Remote, Hybrid, and Part-Time positions. The website includes a secure login system, personalized profiles, and an intuitive job posting feature. Job seekers can easily view and apply for jobs, while employers can manage postings seamlessly. 'JobHub' prioritizes a visually pleasing experience and is hosted on Firebase and Vercel for smooth accessibility. 
 
 - **Features:**
@@ -107,11 +106,10 @@ Welcome to my portfolio! Below are the details of my three projects :
 
 ## Project 3: 👭 Hostel Management
 
-[Live Demo](https://hostel-management-8210c.web.app/)
+[Live Demo Hostel Management](https://hostel-management-8210c.web.app/)
 
-### Project Details
+### 👉 Project Details
 
-## Overview 
 ### Introducing a dynamic Hostel Management site built with the MERN stack, revolutionizing how universities serve meals. The responsive homepage offers a sleek design with a user-friendly navbar, featuring profile pictures for logged-in users. Explore meal categories through an innovative tab system, and seamlessly navigate to details, reviews, and upcoming meals. 'UniMeals' introduces a membership section with Silver, Gold, and Platinum packages, allowing users to request meals and upgrade for premium benefits. Admins enjoy a comprehensive dashboard with user management, meal additions, and service features. The site prioritizes a smooth user experience with features like meal requests, likes, and a secure checkout system. Enhance your hostel dining experience with 'UniMeals.' Check it out on my GitHub profile!
 
 - **Features:**
