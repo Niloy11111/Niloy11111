@@ -24,6 +24,17 @@ As a MERN developer, I have experience in full-stack web development, including 
     <img src="https://user-images.githubusercontent.com/25181517/189716855-2c69ca7a-5149-4647-936d-780610911353.png" alt="Node.js Icon" width="40"/>
 </div>
 
+</br>
+</br>
+</br>
+</br>
+</br>
+ 
+## 👀 Current overview
+# ♥️  I enjoy programming and sharing knowledge
+# 🔭 I’m working - To improve my Networking and Portfolio.
+# 🌱 I’m exploring - Next.Js .
+# 🤔 I’m trying - To build my backend fundamental strongly.
 
 # My Portfolio
 
@@ -78,7 +89,7 @@ Welcome to my portfolio! Below are the details of my three projects :
   - Admin Password: abcdNn&1 
   - Stripe Payment Gateway system(Though no real money)
 
-## Technology Used for these three project
+## Technologies Utilized in the Trio of Projects
 - JavaScript
 - React.js
 - Node.js, Express
