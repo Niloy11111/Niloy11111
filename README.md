@@ -35,7 +35,7 @@ As a MERN developer, I have experience in full-stack web development, including 
 
 ![GitHub Profile Summary Cards](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Niloy11111&theme=dracula)
 
-<div style="display: flex;  gap: 32px;">
+<div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 32px;">
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Niloy11111&dracula)
 
