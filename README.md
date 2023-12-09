@@ -37,13 +37,14 @@ As a MERN developer, I have experience in full-stack web development, including 
 
 <div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 32px;">
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Niloy11111&dracula)
+![Repos Per Language](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Niloy11111&dracula)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Niloy11111&dracula)
+![Most Commit Language](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Niloy11111&dracula)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Niloy11111&dracula)
+![Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Niloy11111&dracula)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Niloy11111&dracula)
+![Productive Time](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Niloy11111&dracula)
+
 </div>
 
 # My Portfolio
