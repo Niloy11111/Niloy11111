@@ -7,7 +7,14 @@
 As a MERN developer, I have experience in full-stack web development, including frontend and backend. My expertise lies in React.js, Tailwind CSS, Node.js, Express, and MongoDB. I have a strong foundation in JavaScript, HTML, and CSS, and have worked on various projects to hone my skills. My vision is to continue learning and growing as a developer, staying updated with the latest trends and technologies in the MERN stack.
 
 ## 📈 Current Stats
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Niloy11111&theme=dracula)](https://git.io/streak-stats)
+ 
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=Niloy11111&theme=dracula" alt="GitHub Streak" />
+  </a>
+</p>
+
+
 
 
 ## ☕  Connect with me! <br>
