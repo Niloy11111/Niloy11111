@@ -5,12 +5,8 @@
 ## ☕  Connect with me!
 
 [![Facebook Icon](/assets/facebook.svg "facebook icon with link")](https://facebook.com)
-[![Facebook Icon](/assets/linkedin.svg "facebook icon with link")](https://linkedin.com)
-[![Facebook Icon](/assets/gmail.svg "facebook icon with link")](
-<ektiaruddinniloy859@gmail.com>)
-
-<https://www.markdownguide.org>
-<fake@example.com>
+[![Linkedin Icon](/assets/linkedin.svg "linkedin icon with link")](https://linkedin.com)
+[![Gmail Icon](/assets/gmail.svg "Gmail Icon")](mailto:ektiaruddinniloy859@gmail.com)
 
 
 
