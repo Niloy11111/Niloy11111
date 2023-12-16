@@ -95,7 +95,7 @@ Welcome to my portfolio! Below are the details of my three projects :
 
 ### 👉 Project Details
 
-### Introducing 'JobHub,' a user-friendly job-seeking platform. With a vibrant and easy-to-navigate design, users can effortlessly explore and apply for various job types like On-Site, Remote, Hybrid, and Part-Time positions. The website includes a secure login system, personalized profiles, and an intuitive job posting feature. Job seekers can easily view and apply for jobs, while employers can manage postings seamlessly. 'JobHub' prioritizes a visually pleasing experience and is hosted on Firebase and Vercel for smooth accessibility. 
+### Introducing 'The Muse,' a user-friendly job-seeking platform. With a vibrant and easy-to-navigate design, users can effortlessly explore and apply for various job types like On-Site, Remote, Hybrid, and Part-Time positions. The website includes a secure login system, personalized profiles, and an intuitive job posting feature. Job seekers can easily view and apply for jobs, while employers can manage postings seamlessly. 'The Muse' prioritizes a visually pleasing experience and is hosted on Firebase and Vercel for smooth accessibility. 
 
 - **Features:**
   - Authenticate users by Firebase Authentication
