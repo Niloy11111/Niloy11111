@@ -2,7 +2,7 @@
 
 ![Banner !](/assets/M.ekhthiar%20uddin.jpg "banner")
 
-## Hey there!  <img src="https://raw.githubusercontent.com/learnwithsumit/learnwithsumit/main/assets/hello.gif" alt="Hi!" width="30"/>
+## Hey there!  <img src="https://i.ibb.co/D4WS6Fn/hello.gif" alt="Hi!" width="30"/>
 
 As a MERN developer, I have experience in full-stack web development, including frontend and backend. My expertise lies in React.js, Tailwind CSS, Node.js, Express, and MongoDB. I have a strong foundation in JavaScript, HTML, and CSS, and have worked on various projects to hone my skills. My vision is to continue learning and growing as a developer, staying updated with the latest trends and technologies in the MERN stack.
 
