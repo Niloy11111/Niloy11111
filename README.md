@@ -4,7 +4,7 @@
 
 ## Hey there!  <img src="https://i.ibb.co/D4WS6Fn/hello.gif" alt="Hi!" width="30"/>
 
-As a MERN developer, I have experience in full-stack web development, including frontend and backend. My expertise lies in React.js, Tailwind CSS, Node.js, Express, and MongoDB. I have a strong foundation in JavaScript, HTML, and CSS, and have worked on various projects to hone my skills. My vision is to continue learning and growing as a developer, staying updated with the latest trends and technologies in the MERN stack.
+I am a MERN Stack developer, I have experience in full-stack web development, including frontend and backend. My expertise lies in React.js, Tailwind CSS, Node.js, Express, and MongoDB. I have a strong foundation in JavaScript, HTML, and CSS, and have worked on various projects to hone my skills. My vision is to continue learning and growing as a developer, staying updated with the latest trends and technologies in the MERN stack.
 
 ## 📈 Current Stats
  
@@ -73,14 +73,14 @@ As a MERN developer, I have experience in full-stack web development, including 
 
 Welcome to my portfolio! Below are the details of my three projects :
 
-## Project 1: 🚔  Automotive 
+## Project 1: 🚔  RevAuto 
 
 [Live Link of Automotive](https://automotive-636cc.web.app/)
 
 ### 👉 Project Details
 
 ## Overview 
-### Passionate automotive enthusiast building a dynamic website featuring top brands—Toyota, BMW, Ford, Tesla, Mercedes-benz, Honda. Users can explore each brand, click for details, and find four featured products with options to view details and update. Leveraging Firebase authentication for a secure experience, MongoDB powers robust CRUD operations. The 'Add Product' route allows seamless expansion of the catalog. The 'My Cart' route showcases user selections. With a commitment to innovation and user-friendly design, this project combines cutting-edge technologies and a love for automobiles.
+### Passionate automotive enthusiast crafting a dynamic website showcasing top brands. Explore, update, and purchase with ease, leveraging Firebase authentication and MongoDB for seamless operations.
 
 - **Features:**
   -
@@ -89,13 +89,13 @@ Welcome to my portfolio! Below are the details of my three projects :
   - Brand wise data fetching 
   - Product Details information 
 
-## Project 2: 👮 Job Management
+## Project 2: 👮 LeepPro
 
-[Live Link of Job Management](https://job-management-58f60.web.app/)
+[Live Link of Job Management](https://job-management-71e90b.netlify.app/)
 
 ### 👉 Project Details
 
-### Introducing 'The Muse,' a user-friendly job-seeking platform. With a vibrant and easy-to-navigate design, users can effortlessly explore and apply for various job types like On-Site, Remote, Hybrid, and Part-Time positions. The website includes a secure login system, personalized profiles, and an intuitive job posting feature. Job seekers can easily view and apply for jobs, while employers can manage postings seamlessly. 'The Muse' prioritizes a visually pleasing experience and is hosted on Firebase and Vercel for smooth accessibility. 
+### This is a project with the MERN stack, featuring Firebase authentication and a user-friendly job posting and job application system, where CRUD operations are properly utilized. 
 
 - **Features:**
   - Authenticate users by Firebase Authentication
@@ -104,13 +104,13 @@ Welcome to my portfolio! Below are the details of my three projects :
   - Three article on BLOGS 
   - Dynamic View Job route and application system 
 
-## Project 3: 👭 Hostel Management
+## Project 3: 👭 CampusBite
 
-[Live Link of Hostel Management](https://hostel-management-8210c.web.app/)
+[Live Link of Hostel Management](https://hostel-management-3967.netlify.app/)
 
 ### 👉 Project Details
 
-### Introducing a dynamic Hostel Management site built with the MERN stack, revolutionizing how universities serve meals. The responsive homepage offers a sleek design with a user-friendly navbar, featuring profile pictures for logged-in users. Explore meal categories through an innovative tab system, and seamlessly navigate to details, reviews, and upcoming meals. 'Foodtank' introduces a membership section with Silver, Gold, and Platinum packages, allowing users to request meals and upgrade for premium benefits. Admins enjoy a comprehensive dashboard with user management, meal additions, and service features. The site prioritizes a smooth user experience with features like meal requests, likes, and a secure checkout system. Enhance your hostel dining experience with 'Foodtank.' Check it out on my GitHub profile!
+### A dynamic Hostel Management site built with the MERN stack, revolutionizing university meal services. Explore meal categories, manage requests, and enjoy premium benefits with our membership packages
 
 - **Features:**
   - Authenticate users by Firebase Authentication
