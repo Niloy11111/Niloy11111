@@ -83,6 +83,8 @@ Welcome to my portfolio! Below are the details of my three projects :
 ### This is a full-stack web application that provides a smart rental housing solution. The platform connects landlords, tenants, and an admin who oversees both users and house listings. Landlords can post and manage rental property listings, while tenants can search for, view, and request rentals. When a landlord approves a rental request, a payment option becomes available to the tenant, and the landlord can provide their phone number for further contact.
 
 - ## **Features:**
+  - Admin Email: admin@gmail.com
+  - Admin Password: 12345678
   - Implemented smooth search and filtering functionality for finding the best-matching property
   - Developed an interactive maps feature to enhance the property search experience
   - Built role-based dashboard content access for admin, tenant, and landlord
@@ -99,6 +101,8 @@ Welcome to my portfolio! Below are the details of my three projects :
 ### This is a Bike Shop application with user-friendly features, secure authentication, and smooth product management.The platform is responsive, error-free, and visually appealing.
 
 - **Features:**
+  - Admin Email: admin@gmail.com
+  - Admin Password: secure
   - Developed a responsive Bike Shop web application with role-based authentication using React
   - Displayed a charted dashboard showing revenue, latest transactions, total earnings, user spending, and more
   - Enabled admin to manage users, products, and orders
@@ -114,11 +118,11 @@ Welcome to my portfolio! Below are the details of my three projects :
 ### A dynamic Hostel Management site built with the MERN stack, revolutionizing university meal services. Explore meal categories, manage requests, and enjoy premium benefits with our membership packages
 
 - **Features:**
+  - Admin Email: hero@hero.com
+  - Admin Password: abcdNn&1
   - Authenticate users by Firebase Authentication
   - MongoDB CRUD Operation On (MEALS, UPCOMING MEALS, All route in dashboard layout)
   - Dashboard layout system to differ in regular user and admin
-  - Admin Email: hero@hero.com
-  - Admin Password: abcdNn&1
   - Stripe Payment Gateway system(Though no real money)
   - jwt implementation to protect private api
 
