@@ -29,14 +29,18 @@ I am a MERN Stack developer, I have experience in full-stack web development, in
 ## 💻 My tech toolkit includes <br>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" alt="JavaScript Icon" width="40">&nbsp;&nbsp;
-  <img src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png" alt="React Icon" width="40">&nbsp;&nbsp;
-  <img src="https://user-images.githubusercontent.com/25181517/183568594-85e280a7-0d7e-4d1a-9028-c8c2209e073c.png" alt="Node.js Icon" width="40">&nbsp;&nbsp;
-  <img src="https://user-images.githubusercontent.com/25181517/183859966-a3462d8d-1bc7-4880-b353-e2cbed900ed6.png" alt="Node.js Icon" width="40">&nbsp;&nbsp;
-  <img src="https://user-images.githubusercontent.com/25181517/182884177-d48a8579-2cd0-447a-b9a6-ffc7cb02560e.png" alt="Node.js Icon" width="40">&nbsp;&nbsp;
-  <img src="https://user-images.githubusercontent.com/25181517/202896760-337261ed-ee92-4979-84c4-d4b829c7355d.png" alt="Node.js Icon" width="40">&nbsp;&nbsp;
-  <img src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png" alt="Node.js Icon" width="40">&nbsp;&nbsp;
-  <img src="https://user-images.githubusercontent.com/25181517/189716855-2c69ca7a-5149-4647-936d-780610911353.png" alt="Node.js Icon" width="40">
+    
+  <img src="/assets/js.svg" alt="JavaScript Icon" width="40">&nbsp;&nbsp;
+  <img src="/assets/ts.svg" alt="JavaScript Icon" width="40">&nbsp;&nbsp;
+  <img src="/assets/react.svg" alt="React Icon" width="40">&nbsp;&nbsp;
+  <img src="https://redux.js.org/img/redux.svg" alt="React Icon" width="40">&nbsp;&nbsp;
+  <img src="/assets/next.svg" alt="React Icon" width="40">&nbsp;&nbsp;
+  <img src="/assets/nodejs.png" alt="Node.js Icon" width="40">&nbsp;&nbsp;
+  <img src="https://www.manektech.com/storage/developer/1646733543.webp" alt="express.js Icon" width="40">&nbsp;&nbsp;
+  <img src="/assets/mongo.svg" alt="mongoDB Icon" width="40">&nbsp;&nbsp;
+  <img src="/assets/tailwind.svg" alt="Node.js Icon" width="40">&nbsp;&nbsp;
+  <img src="/assets/firebase.svg" alt="Node.js Icon" width="40">
+  <img src="/assets/vs-code.png" alt="Node.js Icon" width="40">
 </p>
 
 ## 👀 Current overview
@@ -45,7 +49,7 @@ I am a MERN Stack developer, I have experience in full-stack web development, in
 
 ### 🔭 I’m working - To improve my Networking and Portfolio.
 
-### 🌱 I’m exploring - Next.Js .
+### 🌱 I’m exploring - RDBMS.
 
 ### 🤔 I’m trying - To build backend fundamental strongly.
 
@@ -68,36 +72,38 @@ I am a MERN Stack developer, I have experience in full-stack web development, in
 
 Welcome to my portfolio! Below are the details of my three projects :
 
-## Project 1: 🚔 RevAuto
+## Project 1: 🚔 RentMode
 
-[Live Link of Automotive](https://automotive-636cc.web.app/)
+[Live Link of RentMode](https://basa-finder-client-two.vercel.app/)
 
 ### 👉 Project Details
 
 ## Overview
 
-### Passionate automotive enthusiast crafting a dynamic website showcasing top brands. Explore, update, and purchase with ease, leveraging Firebase authentication and MongoDB for seamless operations.
+### This is a full-stack web application that provides a smart rental housing solution. The platform connects landlords, tenants, and an admin who oversees both users and house listings. Landlords can post and manage rental property listings, while tenants can search for, view, and request rentals. When a landlord approves a rental request, a payment option becomes available to the tenant, and the landlord can provide their phone number for further contact.
 
 - ## **Features:**
-  - Authenticate users by Firebase Authentication
-  - MongoDB CRUD Operation
-  - Brand wise data fetching
-  - Product Details information
+  - Implemented smooth search and filtering functionality for finding the best-matching property
+  - Developed an interactive maps feature to enhance the property search experience
+  - Built role-based dashboard content access for admin, tenant, and landlord
+  - Enabled tenants to apply for rentals and integrated SSLCommerz payment upon landlord approval
+  - Secured authentication with MongoDB and JWT. Users can manage settings and update password
+  - Provided CRUD functionality for user management, property listings, and rental requests
 
-## Project 2: 👮 LeepPro
+## Project 2: 👮 BikeBari
 
-[Live Link of Job Management](https://job-management-71e90b.netlify.app/)
+[Live Link of BikeBari](https://bike-bari-6a.netlify.app/)
 
 ### 👉 Project Details
 
-### This is a project with the MERN stack, featuring Firebase authentication and a user-friendly job posting and job application system, where CRUD operations are properly utilized.
+### This is a Bike Shop application with user-friendly features, secure authentication, and smooth product management.The platform is responsive, error-free, and visually appealing.
 
 - **Features:**
-  - Authenticate users by Firebase Authentication
-  - MongoDB CRUD Operation On (ADD JOB, MY JOB, APPLIED JOBS)
-  - Search Functionality on JOBS route
-  - Three article on BLOGS
-  - Dynamic View Job route and application system
+  - Developed a responsive Bike Shop web application with role-based authentication using React
+  - Displayed a charted dashboard showing revenue, latest transactions, total earnings, user spending, and more
+  - Enabled admin to manage users, products, and orders
+  - Integrated payment method (SurjoPay) for secure transactions
+  - Allowed users to update their profile information
 
 ## Project 3: 👭 CampusBite
 
@@ -119,11 +125,15 @@ Welcome to my portfolio! Below are the details of my three projects :
 ## Technologies Utilized in the Trio of Projects
 
 - JavaScript
+- TypeScript
 - React.js
+- Redux
+- Next.js
 - Node.js
 - Express.js
 - MongoDB
-- Tailwind
+- Mongoose
+- Tailwind CSS
 
 <!--
 **Niloy11111/Niloy11111** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
