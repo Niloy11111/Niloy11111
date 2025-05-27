@@ -1,21 +1,16 @@
+![Banner !](/assets/M.ekhthiar%20uddin.png "banner")
 
-
-![Banner !](/assets/M.ekhthiar%20uddin.jpg "banner")
-
-## Hey there!  <img src="https://i.ibb.co/D4WS6Fn/hello.gif" alt="Hi!" width="30"/>
+## Hey there! <img src="https://i.ibb.co/D4WS6Fn/hello.gif" alt="Hi!" width="30"/>
 
 I am a MERN Stack developer, I have experience in full-stack web development, including frontend and backend. My expertise lies in React.js, Tailwind CSS, Node.js, Express, and MongoDB. I have a strong foundation in JavaScript, HTML, and CSS, and have worked on various projects to hone my skills. My vision is to continue learning and growing as a developer, staying updated with the latest trends and technologies in the MERN stack.
 
 ## 📈 Current Stats
- 
+
 <p align="center">
   <a href="https://git.io/streak-stats">
     <img src="https://github-readme-streak-stats.herokuapp.com?user=Niloy11111&theme=dracula" alt="GitHub Streak" />
   </a>
 </p>
-
-
-
 
 ## ☕ Connect with me! <br>
 
@@ -31,7 +26,6 @@ I am a MERN Stack developer, I have experience in full-stack web development, in
   </a>
 </p>
 
-
 ## 💻 My tech toolkit includes <br>
 
 <p align="center">
@@ -45,12 +39,14 @@ I am a MERN Stack developer, I have experience in full-stack web development, in
   <img src="https://user-images.githubusercontent.com/25181517/189716855-2c69ca7a-5149-4647-936d-780610911353.png" alt="Node.js Icon" width="40">
 </p>
 
-
- 
 ## 👀 Current overview
+
 ### ♥️I enjoy programming and sharing knowledge
+
 ### 🔭 I’m working - To improve my Networking and Portfolio.
+
 ### 🌱 I’m exploring - Next.Js .
+
 ### 🤔 I’m trying - To build backend fundamental strongly.
 
 <br>
@@ -68,26 +64,25 @@ I am a MERN Stack developer, I have experience in full-stack web development, in
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Niloy11111&theme=dracula" alt="Productive Time">
 </p>
 
-
 ## 🌺 My Portfolio
 
 Welcome to my portfolio! Below are the details of my three projects :
 
-## Project 1: 🚔  RevAuto 
+## Project 1: 🚔 RevAuto
 
 [Live Link of Automotive](https://automotive-636cc.web.app/)
 
 ### 👉 Project Details
 
-## Overview 
+## Overview
+
 ### Passionate automotive enthusiast crafting a dynamic website showcasing top brands. Explore, update, and purchase with ease, leveraging Firebase authentication and MongoDB for seamless operations.
 
-- **Features:**
-  -
+- ## **Features:**
   - Authenticate users by Firebase Authentication
-  - MongoDB CRUD Operation 
-  - Brand wise data fetching 
-  - Product Details information 
+  - MongoDB CRUD Operation
+  - Brand wise data fetching
+  - Product Details information
 
 ## Project 2: 👮 LeepPro
 
@@ -95,14 +90,14 @@ Welcome to my portfolio! Below are the details of my three projects :
 
 ### 👉 Project Details
 
-### This is a project with the MERN stack, featuring Firebase authentication and a user-friendly job posting and job application system, where CRUD operations are properly utilized. 
+### This is a project with the MERN stack, featuring Firebase authentication and a user-friendly job posting and job application system, where CRUD operations are properly utilized.
 
 - **Features:**
   - Authenticate users by Firebase Authentication
   - MongoDB CRUD Operation On (ADD JOB, MY JOB, APPLIED JOBS)
-  - Search Functionality on JOBS route 
-  - Three article on BLOGS 
-  - Dynamic View Job route and application system 
+  - Search Functionality on JOBS route
+  - Three article on BLOGS
+  - Dynamic View Job route and application system
 
 ## Project 3: 👭 CampusBite
 
@@ -117,19 +112,18 @@ Welcome to my portfolio! Below are the details of my three projects :
   - MongoDB CRUD Operation On (MEALS, UPCOMING MEALS, All route in dashboard layout)
   - Dashboard layout system to differ in regular user and admin
   - Admin Email: hero@hero.com
-  - Admin Password: abcdNn&1 
+  - Admin Password: abcdNn&1
   - Stripe Payment Gateway system(Though no real money)
-  - jwt implementation to protect private api 
+  - jwt implementation to protect private api
+
 ## Technologies Utilized in the Trio of Projects
+
 - JavaScript
 - React.js
 - Node.js
 - Express.js
 - MongoDB
-- Tailwind 
-
-
-
+- Tailwind
 
 <!--
 **Niloy11111/Niloy11111** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
